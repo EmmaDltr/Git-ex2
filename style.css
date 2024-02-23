@@ -1,3 +1,10 @@
 body{
     background-color: black;
 }
+
+.about{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 100px;
+}
